@@ -23,16 +23,13 @@ To start the game, simply run the `ostas_game.py` file:
 
 1. Click on the grid to place a point.
 2. If any of the termination conditions are met, the game will display an appropriate message, and the game will end.
-Screenshots
+
+# Screenshots
+
 
 Grid Game Screenshot
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
+#
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
