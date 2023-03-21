@@ -25,7 +25,7 @@ To start the game, simply run the `ostas_game.py` file:
 2. If any of the termination conditions are met, the game will display an appropriate message, and the game will end.
 
 # Screenshots
-[](https://github.com/Reben80/costas_game/blob/main/photos/Screenshot%202023-03-20%20at%2010.53.38%20PM.png)
+<img width="399" alt="Screenshot 2023-03-20 at 10 53 38 PM" src="https://user-images.githubusercontent.com/41596499/226758658-53bf7fe9-2b48-4dbc-9fcd-a0ba268c4993.png">
 
 Grid Game Screenshot
 
